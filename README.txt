@@ -8,3 +8,5 @@ variables a et b.
 
 Le deuxieme cree une simple matrix avec des nombres pas tres foufou et 
 transforme cet array en dataframe pour affichier des statistiques de base.
+
+Voila j'ai tout explique et fini mon projet!
